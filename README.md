@@ -30,21 +30,26 @@ This project was developed with the following technologies:
 
 ## Layout
 <p>
-![admin](https://github.com/fernandonunespro/lab_program/assets/130406107/8aacf4b2-2558-4186-a5d3-28d41ce94390)
 
-![login](https://github.com/fernandonunespro/lab_program/assets/130406107/7df20a03-ce14-4a93-8f19-f74ce3f757bf)
+![Alt text](image.png)
 
-![cadastro](https://github.com/fernandonunespro/lab_program/assets/130406107/b6b8f1e6-0d65-4f42-9075-0c5f23a254fe)
+![Alt text](image-8.png)
 
-![cliente](https://github.com/fernandonunespro/lab_program/assets/130406107/7bfb0a71-b3b1-43a9-8a99-322e6cf6c375)
+![Alt text](image-1.png)
 
-![exames](https://github.com/fernandonunespro/lab_program/assets/130406107/347b83b7-dca9-4e12-97d6-bd93d94e8762)
+![Alt text](image-2.png)
 
-![gerenciar_pacientes](https://github.com/fernandonunespro/lab_program/assets/130406107/e608176b-1ada-48cc-9a60-183ea6980167)
+![Alt text](image-3.png)
 
-![gerenciar_pedidos](https://github.com/fernandonunespro/lab_program/assets/130406107/1bffcfd6-94f3-4f2e-ba9f-4b6dbd792505)
+![Alt text](image-4.png)
 
-![acesso_medico](https://github.com/fernandonunespro/lab_program/assets/130406107/6373a6b2-7e1d-4750-8dca-9b6ecc71866d)
+![Alt text](image-5.png)
+
+![Alt text](image-6.png)
+
+![Alt text](image-7.png)
+
+![Alt text](image-9.png)
 </p>
 ## License
 
